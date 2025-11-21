@@ -13,3 +13,4 @@ requests==2.31.0
 googlemaps==4.10.0
 pillow==10.1.0
 pymongo==4.6.1
+python-3.10.14
